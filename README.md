@@ -1,22 +1,22 @@
-👋 Salom, men Ro'zimuhammad  
+👋 Hi, I'm Ro'zimuhammad  
 
-🚀 **Full-Stack Dasturchi | 2+ yillik tajriba**  
+🚀 **Full-Stack Developer | 2+ Years of Experience**  
 
-Men yuqori samarali, kengaytiriladigan veb-ilovalarni yaratishga ixtisoslashganman. Asosiy yo‘nalishim frontend, lekin backend bilan ham ishlayman. Toza arxitektura, zamonaviy UI/UX va mukammal foydalanuvchi tajribalarini yaratishga qiziqaman.  
+I specialize in crafting high-performance, scalable web applications with a strong focus on frontend development while also managing backend logic. Passionate about clean architecture, modern UI/UX, and seamless user experiences.  
 
-🔧 Texnologiyalar  
+🔧 Tech Stack  
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind, jQuery, Redux, Vue.js, SASS, Bootstrap  
-- **Backend:** Node.js, Express, MongoDB (asosiy bilimlar)  
-- **Vositalar & Dizayn:** Git, Figma, UI/UX  
+- **Backend:** Node.js, Express, MongoDB (basic)  
+- **Tools & Design:** Git, Figma, UI/UX  
 
-🌍 Nimalar Bilan Shuğullanaman?  
-- Zamonaviy veb-ilovalarni ishlab chiqish va optimizatsiya qilish  
-- Toza, tartibli va kengaytiriladigan kod yozish  
-- Yangi veb-texnologiyalarni o‘rganish va integratsiya qilish  
+🌍 What I Do  
+- Build and optimize modern web applications  
+- Ensure clean, maintainable, and scalable code  
+- Explore and integrate new web technologies  
 
- 🎯 Maqsadlarim  
-- Full-stack dasturlash bo‘yicha bilimlarimni chuqurlashtirish  
-- Muhim loyihalarda ishtirok etish  
-- Yangi texnologiyalar bilan doimiy ravishda tanishib borish  
+ 🎯 Goals  
+- Advance my full-stack expertise  
+- Contribute to impactful projects  
+- Stay ahead with emerging technologies  
 
-🚀 **Hamkorlik va yangi imkoniyatlarga doim ochiqman!**  
+🚀 **Always open to collaboration and exciting opportunities!**  
