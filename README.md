@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Roma Artikov
+# Hi, I'm Roma Artikov
 
 ### Full Stack Software Engineer
 
@@ -27,13 +27,13 @@ Building modern, scalable and user-focused web applications.
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 💼 Full Stack Software Engineer
-- 🌍 Based in Uzbekistan
-- 💳 Passionate about Fintech & SaaS products
-- ⚡ Focused on clean architecture and scalable applications
-- 📚 Currently learning Docker, DevOps & System Design
+- Full Stack Software Engineer
+- Based in Uzbekistan
+- Passionate about Fintech & SaaS products
+- Focused on clean architecture and scalable applications
+- Currently learning Docker, DevOps & System Design
 
 ---
 
@@ -79,18 +79,18 @@ Building modern, scalable and user-focused web applications.
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-| 🚀 Project | Description |
+| Project | Description |
 |------------|-------------|
-| 🌐 **Portfolio** | Personal portfolio showcasing my projects and experience. |
-| 💳 **Fintech Platform** | Modern financial application with secure backend architecture. |
-| 🤖 **Telegram Bot** | Telegram automation and API integration. |
-| 🌍 **Country Explorer** | Country information app built using REST API. |
+| **Portfolio** | Personal portfolio showcasing my projects and experience. |
+| **Fintech Platform** | Modern financial application with secure backend architecture. |
+| **Telegram Bot** | Telegram automation and API integration. |
+| **Country Explorer** | Country information app built using REST API. |
 
 ---
 
-# 📫 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -120,8 +120,8 @@ Building modern, scalable and user-focused web applications.
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, write the code."*
+### *"First, solve the problem. Then, write the code."*
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </div>
