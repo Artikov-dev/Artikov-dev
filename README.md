@@ -37,7 +37,7 @@ Building modern, scalable and user-focused web applications.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Building modern, scalable and user-focused web applications.
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
