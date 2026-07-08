@@ -122,6 +122,6 @@ Building modern, scalable and user-focused web applications.
 
 ### *"First, solve the problem. Then, write the code."*
 
-Thanks for visiting my profile!
+Thanks for visiting my profile
 
 </div>
