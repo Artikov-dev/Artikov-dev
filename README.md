@@ -65,10 +65,6 @@ Building modern, scalable and user-focused web applications.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Artikov-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artikov-dev&layout=compact&theme=github_dark&hide_border=true"/>
-
 </div>
 
 <div align="center">
