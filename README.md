@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, Im Roma Artikov
+# Hi, I'm Roma Artikov
 
 ### Full Stack Software Engineer
 
