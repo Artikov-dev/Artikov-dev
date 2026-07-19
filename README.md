@@ -27,7 +27,7 @@ Building modern, scalable and user-focused web applications.
 
 ---
 
-#  About Me
+#  About Mee
 
 - Full Stack Software Engineer
 - Based in Uzbekistan
