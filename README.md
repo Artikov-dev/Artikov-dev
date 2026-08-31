@@ -6,19 +6,31 @@
 
 Building modern, scalable, and user-focused web applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+TypeScript;JavaScript+%7C+Node.js;Laravel+%7C+Express.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+TypeScript;JavaScript+%7C+Node.js;Laravel+%7C+Express.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies"
+  alt="Typing SVG"
+/>
 
 <br/>
 
 <a href="https://artikov.dev">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-artikov.dev-3B82F6?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/🌐_Portfolio-artikov.dev-3B82F6?style=for-the-badge"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="mailto:artikovrozik52@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge"
+    alt="Email"
+  />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Artikov-dev&style=for-the-badge&color=3B82F6" />
+<img
+  src="https://komarev.com/ghpvc/?username=Artikov-dev&style=for-the-badge&color=3B82F6"
+  alt="Profile Views"
+/>
 
 </div>
 
@@ -26,11 +38,11 @@ Building modern, scalable, and user-focused web applications.
 
 # 👨‍💻 About Me
 
-* 🚀 Full Stack Software Engineer
-* 📍 Based in Uzbekistan
-* 💡 Passionate about Fintech & SaaS products
-* 🏗️ Focused on clean architecture and scalable applications
-* 🐳 Currently learning Docker, DevOps & System Design
+- 🚀 Full Stack Software Engineer
+- 📍 Based in Uzbekistan
+- 💡 Passionate about Fintech & SaaS products
+- 🏗️ Focused on clean architecture and scalable applications
+- 🐳 Currently learning Docker, DevOps & System Design
 
 ---
 
@@ -40,19 +52,37 @@ Building modern, scalable, and user-focused web applications.
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite" />
+<img
+  src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite"
+  alt="Frontend Technologies"
+/>
+
+<br/><br/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"
+  alt="Backend Technologies"
+/>
+
+<br/><br/>
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img
+  src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"
+  alt="Databases"
+/>
+
+<br/><br/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,figma,vscode" />
+<img
+  src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,figma,vscode"
+  alt="Tools"
+/>
 
 </div>
 
@@ -63,20 +93,22 @@ Building modern, scalable, and user-focused web applications.
 <div align="center">
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Artikov-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+  height="170"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Artikov-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+  alt="GitHub Stats"
 />
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artikov-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+  height="170"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Artikov-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"
+  alt="Top Languages"
 />
 
-<br/>
+<br/><br/>
 
 <img
-src="https://streak-stats.demolab.com?user=Artikov-dev&theme=github-dark-blue&hide_border=true"
-alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=Artikov-dev&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -88,9 +120,9 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Artikov-dev&theme=github-compact&hide_border=true"
-alt="GitHub Activity Graph"
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Artikov-dev&theme=github-compact&hide_border=true"
+  alt="GitHub Activity Graph"
 />
 
 </div>
@@ -99,12 +131,12 @@ alt="GitHub Activity Graph"
 
 # 🚀 Featured Projects
 
-| Project              | Description                                                    |
-| -------------------- | -------------------------------------------------------------- |
-| **Portfolio**        | Personal portfolio showcasing my projects and experience.      |
+| Project | Description |
+|---|---|
+| **Portfolio** | Personal portfolio showcasing my projects and experience. |
 | **Fintech Platform** | Modern financial application with secure backend architecture. |
-| **Telegram Bot**     | Telegram automation and API integration.                       |
-| **Country Explorer** | Country information application built using REST API.          |
+| **Telegram Bot** | Telegram automation and API integration. |
+| **Country Explorer** | Country information application built using REST API. |
 
 ---
 
@@ -113,23 +145,38 @@ alt="GitHub Activity Graph"
 <div align="center">
 
 <a href="https://artikov.dev">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="https://github.com/Artikov-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/artikovdev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://t.me/artikov_06_tt">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    alt="Telegram"
+  />
 </a>
 
 <a href="mailto:artikovrozik52@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
 </a>
 
 </div>
