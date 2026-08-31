@@ -93,21 +93,21 @@ Building modern, scalable, and user-focused web applications.
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Artikov-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artikov-dev&theme=github_dark"
   alt="GitHub Stats"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Artikov-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artikov-dev&theme=github_dark"
   alt="Top Languages"
 />
 
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Artikov-dev&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=Artikov-dev&theme=github-dark-blue&hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -117,11 +117,16 @@ Building modern, scalable, and user-focused web applications.
 
 # 📈 Contribution Activity
 
+<div align="center">
+
 <img
   width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Artikov-dev&theme=github-compact&hide_border=true"
-  alt="GitHub Activity Graph"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artikov-dev&theme=github_dark"
+  alt="GitHub Contribution Graph"
 />
+
+</div>
+
 
 ---
 
