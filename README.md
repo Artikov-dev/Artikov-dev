@@ -91,42 +91,32 @@ Building modern, scalable, and user-focused web applications.
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artikov-dev&theme=github_dark"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artikov-dev&theme=github_dark"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=Artikov-dev&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
-
+  <table border="0">
+    <tr align="center">
+      <td>
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Artikov-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&bg_color=0D1117" alt="Artikov Stats" />
+      </td>
+      <td>
+        <img height="165" src="https://streak-stats.demolab.com/?user=Artikov-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Artikov Streak" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artikov-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=9CA3AF&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
-
-<img
-  width="95%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artikov-dev&theme=github_dark"
-  alt="GitHub Contribution Graph"
-/>
-
+  <a href="https://github.com/Artikov-dev">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artikov-dev&theme=github_dark" alt="GitHub Contribution Graph" />
+  </a>
 </div>
-
 
 ---
 
