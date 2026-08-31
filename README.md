@@ -117,15 +117,11 @@ Building modern, scalable, and user-focused web applications.
 
 # 📈 Contribution Activity
 
-<div align="center">
-
 <img
   width="95%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=Artikov-dev&theme=github-compact&hide_border=true"
   alt="GitHub Activity Graph"
 />
-
-</div>
 
 ---
 
