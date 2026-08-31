@@ -1,31 +1,183 @@
-### Hi there, I'm Roma Artikov 👋
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=Artikov-dev&color=blue&theme=onedark)
+# Hi, I'm Roma Artikov 👋
 
-💻 Full Stack Software Engineer | Building modern web applications 
+### Full Stack Software Engineer
 
-🔭 Focused on clean architecture and scalable applications
+Building modern, scalable, and user-focused web applications.
 
-⚡️ Fun Fact: Always learning new technologies & exploring DevOps
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+TypeScript;JavaScript+%7C+Node.js;Laravel+%7C+Express.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies"
+  alt="Typing SVG"
+/>
 
-📫 Reach me on Telegram: [@artikov_06_tt](https://t.me/artikov_06_tt)
+<br/>
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%233B82F6.svg?logo=vercel&logoColor=white)](https://artikov.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artikovdev/) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/artikov_06_tt) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:artikovrozik52@gmail.com)
+<a href="https://artikov.dev">
+  <img
+    src="https://img.shields.io/badge/🌐_Portfolio-artikov.dev-3B82F6?style=for-the-badge"
+    alt="Portfolio"
+  />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<a href="mailto:artikovrozik52@gmail.com">
+  <img
+    src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge"
+    alt="Email"
+  />
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Artikov-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Artikov-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Artikov-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img
+  src="https://komarev.com/ghpvc/?username=Artikov-dev&style=for-the-badge&color=3B82F6"
+  alt="Profile Views"
+/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Artikov-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Artikov-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 👨‍💻 About Me
+
+- 🚀 Full Stack Software Engineer
+- 📍 Based in Uzbekistan
+- 💡 Passionate about Fintech & SaaS products
+- 🏗 Focused on clean architecture and scalable applications
+- 🐳 Currently learning Docker, DevOps & System Design
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite"
+  alt="Frontend Technologies"
+/>
+
+<br/><br/>
+
+### Backend
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"
+  alt="Backend Technologies"
+/>
+
+<br/><br/>
+
+### Database
+
+<img
+  src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"
+  alt="Databases"
+/>
+
+<br/><br/>
+
+### Tools
+
+<img
+  src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,figma,vscode"
+  alt="Tools"
+/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr align="center">
+      <td>
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Artikov-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&bg_color=0D1117" alt="Artikov Stats" />
+      </td>
+      <td>
+        <img height="165" src="https://streak-stats.demolab.com/?user=Artikov-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Artikov Streak" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artikov-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=9CA3AF&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+  <a href="https://github.com/Artikov-dev">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artikov-dev&theme=github_dark" alt="GitHub Contribution Graph" />
+  </a>
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| Portfolio | Personal portfolio showcasing my projects and experience. |
+| Fintech Platform | Modern financial application with secure backend architecture. |
+| Telegram Bot | Telegram automation and API integration. |
+| Country Explorer | Country information application built using REST API. |
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://artikov.dev">
+  <img
+    src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://github.com/Artikov-dev">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/artikovdev/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://t.me/artikov_06_tt">
+  <img
+    src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    alt="Telegram"
+  />
+</a>
+
+<a href="mailto:artikovrozik52@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### *"First, solve the problem. Then, write the code."*
+
+Thanks for visiting my profile! 🚀
+
+</div>
