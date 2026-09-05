@@ -79,7 +79,6 @@ Building modern, scalable, and user-focused web applications with clean architec
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -98,7 +97,7 @@ Building modern, scalable, and user-focused web applications with clean architec
     </tr>
   </table>
 </div>
----
+
 
 ## 🐍 Contribution Graph
 
