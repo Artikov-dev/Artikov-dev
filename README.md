@@ -83,7 +83,8 @@ Building modern, scalable, and user-focused web applications with clean architec
   <table border="0">
     <tr align="center">
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Artikov-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&bg_color=0D1117&count_private=true" alt="Artikov Stats" />
+        <!-- count_private=true olib tashlandi -->
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Artikov-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&bg_color=0D1117" alt="Artikov Stats" />
       </td>
       <td width="50%">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Artikov-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Artikov Streak" />
@@ -96,7 +97,6 @@ Building modern, scalable, and user-focused web applications with clean architec
     </tr>
   </table>
 </div>
-
 ---
 
 ## 🐍 Contribution Graph
