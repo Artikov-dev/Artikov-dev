@@ -4,7 +4,7 @@
 
 ### Full Stack Software Engineer | Frontend Developer Intern @ Anorbank
 
-Building modern, scalable, and user-focused web applications with clean architecture.
+Building modern, scalable, and user-focused web applications with clean architecture.s
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL;Feature-Sliced+Design+(FSD);Building+Scalable+SaaS+%26+Fintech" alt="Typing SVG" />
